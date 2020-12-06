@@ -1,0 +1,15 @@
+Soal No.1 :
+1.	Mulai.
+2.	Input teks.
+3.	Lakukan looping secara decrement untuk mengubah letak huruf pada teks lalu masukan ke dalam variabel baru (teksBaru) dan masukan fungsi untuk mengubah huruf kapital menjadi huruf kecil.
+4.	Lakukan looping secara ascending untuk teks awal, lalu masukan ke dalam variabel baru (teksAwal) dan masukan fungsi untuk mengubah huruf kapital menjadi huruf kecil.
+5.	Lakukan perbandingan teksAwal dengan teksBaru.
+6.	Jika hasilnya sama, maka output “Palindrom”, selain itu “Bukan Palindrom”.
+7.	Selesai.
+
+Soal No.2 :
+1.	Mulai.
+2.	Input array teks.
+3.	Lakukan looping secara decrement untuk mengubah letak teks pada array.
+4.	Output array teks yang telah berubah posisi.
+5.	Selesai.
